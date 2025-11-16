@@ -7,6 +7,29 @@
 
 A **production-ready, multi-provider AI chatbot** built with Python, featuring support for OpenAI GPT, Anthropic Claude, and Google Gemini models. This master-level project demonstrates best practices in software architecture, testing, deployment, and documentation.
 
+**Developed by:** [Ketsar Ali](https://github.com/ketsar28)
+
+---
+
+## 👨‍💻 About the Author
+
+<div align="center">
+
+### Ketsar Ali
+
+**AI Engineer & Full-Stack Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ketsar28-181717?style=for-the-badge&logo=github)](https://github.com/ketsar28/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketsar_Ali-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketsarali/)
+[![Instagram](https://img.shields.io/badge/Instagram-ketsar.aaw-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ketsar.aaw/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-ketsar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ketsar)
+[![Streamlit](https://img.shields.io/badge/Streamlit-ketsar28-FF4B4B?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/user/ketsar28)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=6285155343380&text=Hi%20Ketsar,%20I'm%20interested%20in%20your%20AAW%20Chatbot%20project!)
+
+</div>
+
+Passionate about building innovative AI solutions and creating production-ready applications. This chatbot project showcases enterprise-level software engineering practices combined with cutting-edge AI technology.
+
 ---
 
 ## ✨ Features
@@ -39,19 +62,21 @@ A **production-ready, multi-provider AI chatbot** built with Python, featuring s
 
 ## 📋 Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Development](#development)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [API Providers Setup](#api-providers-setup)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+- [About the Author](#-about-the-author)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Configuration](#%EF%B8%8F-configuration)
+- [Usage](#-usage)
+- [Architecture](#%EF%B8%8F-architecture)
+- [Development](#%EF%B8%8F-development)
+- [Testing](#-testing)
+- [Deployment](#-deployment)
+- [API Providers Setup](#-api-providers-setup)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [Connect With Me](#-connect-with-me)
+- [License](#-license)
 
 ---
 
@@ -559,23 +584,20 @@ docker-compose logs
 
 - **Issues**: [GitHub Issues](https://github.com/ketsar28/aaw-chatbot-with-python/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ketsar28/aaw-chatbot-with-python/discussions)
-- **Email**: support@aaw-chatbot.com
+- **Direct Contact**: [WhatsApp Me](https://api.whatsapp.com/send/?phone=6285155343380&text=Hi%20Ketsar,%20I%20need%20help%20with%20AAW%20Chatbot!)
 
 ---
 
 ## 📚 Additional Documentation
 
-- [API Documentation](docs/API.md)
-- [Contributing Guidelines](docs/CONTRIBUTING.md)
-- [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-- [Changelog](docs/CHANGELOG.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
+- [Code Explanation](docs/CODE_EXPLANATION.md) - Detailed architecture and code walkthrough
+- [Contributing Guidelines](docs/CONTRIBUTING.md) - How to contribute to this project
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ketsar28/aaw-chatbot-with-python/issues).
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -585,19 +607,26 @@ Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) fo
 
 ---
 
-## 📄 License
+## 🌐 Connect With Me
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators!
 
----
+<div align="center">
 
-## 🙏 Acknowledgments
+### Ketsar Ali
 
-- [Streamlit](https://streamlit.io) for the amazing UI framework
-- [OpenAI](https://openai.com) for GPT models
-- [Anthropic](https://anthropic.com) for Claude models
-- [Google](https://ai.google.dev) for Gemini models
-- All contributors and supporters
+**AI Engineer | Full-Stack Developer | Tech Enthusiast**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/ketsar28/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketsarali/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ketsar.aaw/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ketsar)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/user/ketsar28)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=6285155343380&text=Hi%20Ketsar,%20I'm%20interested%20in%20collaborating!)
+
+**📧 Let's build something amazing together!**
+
+</div>
 
 ---
 
@@ -612,17 +641,59 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🗺️ Roadmap
 
-- [ ] Add streaming responses
-- [ ] Implement user authentication
-- [ ] Add conversation export (PDF, Markdown)
-- [ ] Support for image inputs (vision models)
-- [ ] Voice input/output
-- [ ] Custom system prompts
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
+- [ ] Add streaming responses for real-time chat
+- [ ] Implement user authentication system
+- [ ] Add conversation export (PDF, Markdown, JSON)
+- [ ] Support for image inputs (GPT-4 Vision, Gemini Pro Vision)
+- [ ] Voice input/output capabilities
+- [ ] Custom system prompts per conversation
+- [ ] Multi-language interface support
+- [ ] Advanced analytics and usage dashboard
+- [ ] Plugin system for extensibility
+- [ ] Mobile-responsive PWA version
 
 ---
 
-**Made with ❤️ by the AAW Team**
+## 📄 License
 
-**⭐ Star this repository if you find it helpful!**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Copyright © 2024 [Ketsar Ali](https://github.com/ketsar28). All rights reserved.**
+
+---
+
+## 🙏 Acknowledgments
+
+- [Streamlit](https://streamlit.io) for the incredible UI framework
+- [OpenAI](https://openai.com) for GPT models and API
+- [Anthropic](https://anthropic.com) for Claude models
+- [Google](https://ai.google.dev) for Gemini models
+- The open-source community for amazing tools and libraries
+
+---
+
+## 💖 Support This Project
+
+If you find this project helpful, please consider:
+
+- ⭐ **Starring** this repository
+- 🐛 **Reporting bugs** and suggesting features
+- 🔀 **Contributing** code improvements
+- 📢 **Sharing** with others who might find it useful
+- ☕ **Connecting** with me on social media
+
+---
+
+<div align="center">
+
+### ⚡ Built with passion by [Ketsar Ali](https://github.com/ketsar28)
+
+**Making AI accessible, one chat at a time** 🤖✨
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/ketsar28)
+[![Built with Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-00D9FF?style=for-the-badge)](https://github.com/ketsar28/aaw-chatbot-with-python)
+
+**⭐ Don't forget to star this repository if you found it helpful! ⭐**
+
+</div>
